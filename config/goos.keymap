@@ -60,7 +60,7 @@
         vim_save {
             bindings = <&vim_save>;
             key-positions = <21 22>;
-            layers = <0>;
+            layers = <0 1>;
         };
 
         lock {
